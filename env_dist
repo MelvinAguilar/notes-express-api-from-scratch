@@ -1,0 +1,6 @@
+PORT=3000
+DEBUG=`myapp:*`
+DBHOST=localhost
+DBPORT=27017
+DBNAME=
+DBURI=
